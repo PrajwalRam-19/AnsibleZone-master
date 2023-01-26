@@ -1,5 +1,6 @@
 ---
 # vars file for skeleton
+java_package_name: openjdk-11-jdk
 user_name: tomcat
 group_name: tomcat
 user_home: /opt/tomcat
